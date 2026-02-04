@@ -1,0 +1,13 @@
+0,1,2,3,4,5,6,7,8,9
+,Fair Value,Adjusted,Unrealized,,Unrealized,Recorded,Cash and Cash,Short-term Investment,Equity Investment
+(In millions),Level,Cost Basis,Gains,,Losses,Basis,Equivalents,s,s
+"June 30, 2022",,,,,,,,,
+Changes in Fair Value Recorded in Other Comprehensive Income,,,,,,,,,
+Commercial paper,Level 2,"$ 2,500",$ 0,$,0,"$ 2,500","$ 2,498",$ 2,$ 0
+Certificates of deposit,Level 2,"2,071",0,,0,"2,071","2,032",39,0
+U.S. government securities,Level 1,"79,696",29,,"(2,178 )","77,547",9,"77,538",0
+U.S. agency securities,Level 2,419,0,,(9 ),410,0,410,0
+Foreign government bonds,Level 2,506,0,,(24 ),482,0,482,0
+Mortgage- and asset-backed securities,Level 2,727,1,,(30 ),698,0,698,0
+Corporate notes and bonds,Level 2,"11,661",4,,(554 ),"11,111",0,"11,111",0
+Corporate notes and bonds,Level 3,67,0,,0,67,0,67,0
